@@ -1,2 +1,2 @@
 # JARVIS_AI
-an ML project
+Designed to work from voice-to-voice-based communication, this innovative system is your ultimate digital assistant for your laptop. Just say "Hey Jarvis" to start, and it will instantly respond to your needs. Whether you're setting reminders, managing your schedule, or retrieving real-time information, Jarvis is always ready to assist. Utilizing basic speech recognition, it understands and executes your commands with ease. Experience the future of hands-free interaction with Jarvis—your reliable, voice-activated companion for all your personal and professional tasks on your laptop.
